@@ -1,0 +1,28 @@
+
+
+Rotate the Cube:
+
+o key: U' Move (rotate the top layer clockwise)
+p key: U Move (rotate the top layer counter-clockwise)
+r key: D Move (rotate the bottom layer clockwise)
+v key: M Move (rotate the middle layer clockwise)
+c key: M' Move (rotate the middle layer counter-clockwise)
+t key: Z Move (rotate the entire cube clockwise)
+w key: X' Move (rotate the entire cube counter-clockwise)
+s key: Sexy Move (perform a specific sequence of moves)
+
+Change Camera View:
+
+g key: Change camera view (rotate the cube 20 degrees around the y-axis)
+f key: Change camera view (rotate the cube 20 degrees around the y-axis in the opposite direction)
+d key: Change camera view (rotate the cube 90 degrees around the x-axis)
+
+Shuffle the Cube:
+a key: Shuffle the cube (perform a random sequence of moves)
+
+Solve the Cube:
+q key: Start solving the cube (initiate the solving algorithm)
+
+Additional Keys:
+Esc key: Quit the Pygame application
+
