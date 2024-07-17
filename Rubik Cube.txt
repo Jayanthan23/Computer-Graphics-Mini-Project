@@ -1,1 +1,1 @@
-[['green', 'orange', 'white'],['white', 'orange'],['yellow', 'orange', 'green'],['blue', 'orange'],['red', 'green', 'white'],['blue', 'white'],['orange', 'blue', 'white'],['yellow', 'red'],['white'],['green', 'orange'],['blue'],['yellow', 'green'],['orange'],['orange', 'yellow'],['green'],['blue', 'yellow'],['red'],['orange', 'yellow', 'blue'],['white', 'red'],['yellow', 'green', 'red'],['red', 'green'],['blue', 'yellow', 'red'],['red', 'blue'],['white', 'blue', 'red'],['green', 'white'],['yellow'],]
+
